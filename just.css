@@ -1,4 +1,35 @@
-.body{
-background: linear-gradient(to right, rgb(243, 148, 114), rgb(214, 85, 85));
+body{
+background-image: url(img/e0012.png);
+background-size: 100%;
 
 }
+
+h1{
+background-color: olive;
+border: 2px solid;
+flex: auto;
+padding: 1px;
+width: 380px;
+border-radius: 15px;
+color: aliceblue;
+}
+
+h2{
+    background-color: rgb(187, 187, 35);
+    border: 2px solid;
+    flex: auto;
+    padding: 1px;
+    width: 450px;
+    border-radius: 15px;
+    color: aliceblue;
+    }
+
+    button{
+color: rgb(82, 82, 82);
+text-transform: initial;
+border: 1px solid;
+border-color: blueviolet;
+border-radius: 5px;
+cursor: pointer;
+padding: 3px;
+    }
